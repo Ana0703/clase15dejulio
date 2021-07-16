@@ -2,7 +2,6 @@
 //Este método debe sustituir cada valor repetido por 0. Para terminar, realiza un método que muestre el array modificado. 
 //Recuerde que para llenar la lista. Le irá pidiendo números al usuario hasta que este introduzca un número negativo.
 
-
 import java.util.*;
 
 public class SustituirElementosCeros {
